@@ -1,1 +1,1 @@
-# Movie_Rating_Prediction-SVM-
+# Movie_Rating_Prediction-NaiveBayes
